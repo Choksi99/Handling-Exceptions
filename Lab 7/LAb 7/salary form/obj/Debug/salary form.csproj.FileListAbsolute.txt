@@ -1,0 +1,80 @@
+C:\Users\21801861\source\repos\salary form\bin\Debug\salary form.exe.config
+C:\Users\21801861\source\repos\salary form\bin\Debug\salary form.exe
+C:\Users\21801861\source\repos\salary form\bin\Debug\salary form.pdb
+C:\Users\21801861\source\repos\salary form\obj\Debug\salary form.csprojResolveAssemblyReference.cache
+C:\Users\21801861\source\repos\salary form\obj\Debug\salary_form.Form1.resources
+C:\Users\21801861\source\repos\salary form\obj\Debug\salary_form.Properties.Resources.resources
+C:\Users\21801861\source\repos\salary form\obj\Debug\salary form.csproj.GenerateResource.Cache
+C:\Users\21801861\source\repos\salary form\obj\Debug\salary form.csproj.CoreCompileInputs.cache
+C:\Users\21801861\source\repos\salary form\obj\Debug\salary form.exe
+C:\Users\21801861\source\repos\salary form\obj\Debug\salary form.pdb
+Q:\salary form\bin\Debug\salary form.exe.config
+Q:\salary form\bin\Debug\salary form.exe
+Q:\salary form\bin\Debug\salary form.pdb
+Q:\salary form\obj\Debug\salary form.csprojResolveAssemblyReference.cache
+Q:\salary form\obj\Debug\salary_form.Form1.resources
+Q:\salary form\obj\Debug\salary_form.Properties.Resources.resources
+Q:\salary form\obj\Debug\salary form.csproj.GenerateResource.Cache
+Q:\salary form\obj\Debug\salary form.csproj.CoreCompileInputs.cache
+Q:\salary form\obj\Debug\salary form.exe
+Q:\salary form\obj\Debug\salary form.pdb
+E:\salary form\obj\Debug\salary form.csprojResolveAssemblyReference.cache
+E:\salary form\obj\Debug\salary_form.Form1.resources
+E:\salary form\obj\Debug\salary_form.Properties.Resources.resources
+E:\salary form\obj\Debug\salary form.csproj.GenerateResource.Cache
+E:\salary form\obj\Debug\salary form.csproj.CoreCompileInputs.cache
+E:\salary form\obj\Debug\salary form.exe
+E:\salary form\obj\Debug\salary form.pdb
+E:\salary form\bin\Debug\salary form.exe.config
+E:\salary form\bin\Debug\salary form.exe
+E:\salary form\bin\Debug\salary form.pdb
+A:\lab Work\salary form\bin\Debug\salary form.exe.config
+A:\lab Work\salary form\bin\Debug\salary form.exe
+A:\lab Work\salary form\bin\Debug\salary form.pdb
+A:\lab Work\salary form\obj\Debug\salary form.csprojAssemblyReference.cache
+A:\lab Work\salary form\obj\Debug\salary_form.Form1.resources
+A:\lab Work\salary form\obj\Debug\salary_form.Properties.Resources.resources
+A:\lab Work\salary form\obj\Debug\salary form.csproj.GenerateResource.cache
+A:\lab Work\salary form\obj\Debug\salary form.csproj.CoreCompileInputs.cache
+A:\lab Work\salary form\obj\Debug\salary form.exe
+A:\lab Work\salary form\obj\Debug\salary form.pdb
+A:\Programming\salary form\bin\Debug\salary form.exe.config
+A:\Programming\salary form\bin\Debug\salary form.exe
+A:\Programming\salary form\bin\Debug\salary form.pdb
+A:\Programming\salary form\obj\Debug\salary form.csprojAssemblyReference.cache
+A:\Programming\salary form\obj\Debug\salary_form.Form1.resources
+A:\Programming\salary form\obj\Debug\salary_form.Properties.Resources.resources
+A:\Programming\salary form\obj\Debug\salary form.csproj.GenerateResource.cache
+A:\Programming\salary form\obj\Debug\salary form.csproj.CoreCompileInputs.cache
+A:\Programming\salary form\obj\Debug\salary form.exe
+A:\Programming\salary form\obj\Debug\salary form.pdb
+B:\Program\salary form\salary form\bin\Debug\salary form.exe.config
+B:\Program\salary form\salary form\bin\Debug\salary form.exe
+B:\Program\salary form\salary form\bin\Debug\salary form.pdb
+B:\Program\salary form\salary form\obj\Debug\salary form.csprojAssemblyReference.cache
+B:\Program\salary form\salary form\obj\Debug\salary_form.Form1.resources
+B:\Program\salary form\salary form\obj\Debug\salary_form.Properties.Resources.resources
+B:\Program\salary form\salary form\obj\Debug\salary form.csproj.GenerateResource.cache
+B:\Program\salary form\salary form\obj\Debug\salary form.csproj.CoreCompileInputs.cache
+B:\Program\salary form\salary form\obj\Debug\salary form.exe
+B:\Program\salary form\salary form\obj\Debug\salary form.pdb
+E:\College\Program\LAB WORK\Lab 7\LAb 7\salary form\obj\Debug\salary form.csprojResolveAssemblyReference.cache
+E:\College\Program\LAB WORK\Lab 7\LAb 7\salary form\obj\Debug\salary_form.Form1.resources
+E:\College\Program\LAB WORK\Lab 7\LAb 7\salary form\obj\Debug\salary_form.Properties.Resources.resources
+E:\College\Program\LAB WORK\Lab 7\LAb 7\salary form\obj\Debug\salary form.csproj.GenerateResource.Cache
+E:\College\Program\LAB WORK\Lab 7\LAb 7\salary form\obj\Debug\salary form.csproj.CoreCompileInputs.cache
+E:\College\Program\LAB WORK\Lab 7\LAb 7\salary form\obj\Debug\salary form.exe
+E:\College\Program\LAB WORK\Lab 7\LAb 7\salary form\obj\Debug\salary form.pdb
+E:\College\Program\LAB WORK\Lab 7\LAb 7\salary form\bin\Debug\salary form.exe.config
+E:\College\Program\LAB WORK\Lab 7\LAb 7\salary form\bin\Debug\salary form.exe
+E:\College\Program\LAB WORK\Lab 7\LAb 7\salary form\bin\Debug\salary form.pdb
+B:\College\Program\extra work\Lab 7\LAb 7\salary form\bin\Debug\salary form.exe.config
+B:\College\Program\extra work\Lab 7\LAb 7\salary form\bin\Debug\salary form.exe
+B:\College\Program\extra work\Lab 7\LAb 7\salary form\bin\Debug\salary form.pdb
+B:\College\Program\extra work\Lab 7\LAb 7\salary form\obj\Debug\salary form.csprojAssemblyReference.cache
+B:\College\Program\extra work\Lab 7\LAb 7\salary form\obj\Debug\salary_form.Form1.resources
+B:\College\Program\extra work\Lab 7\LAb 7\salary form\obj\Debug\salary_form.Properties.Resources.resources
+B:\College\Program\extra work\Lab 7\LAb 7\salary form\obj\Debug\salary form.csproj.GenerateResource.cache
+B:\College\Program\extra work\Lab 7\LAb 7\salary form\obj\Debug\salary form.csproj.CoreCompileInputs.cache
+B:\College\Program\extra work\Lab 7\LAb 7\salary form\obj\Debug\salary form.exe
+B:\College\Program\extra work\Lab 7\LAb 7\salary form\obj\Debug\salary form.pdb
